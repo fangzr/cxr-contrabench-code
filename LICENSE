@@ -1,0 +1,7 @@
+## License
+
+The code and documentation in this repository are released under the Apache License 2.0. See [LICENSE](LICENSE).
+
+This license applies only to the code and documentation provided in this repository. It does not grant any rights to third-party datasets, including CheXpert, OpenI, or ReXVQA. Users are responsible for obtaining the required dataset access and complying with the original dataset licenses, terms of use, and citation requirements.
+
+No chest X-ray images or protected clinical reports are redistributed in this repository. Benchmark protocols are intended for research and evaluation purposes only and are not intended for clinical diagnosis or deployment.
